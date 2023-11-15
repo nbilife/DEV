@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>sg_studio_card_template</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>FZ5695</sys_created_by>
+        <sys_created_on>2019-06-01 08:25:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6041d30ddbf5b300bf90b9836b9619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sg_studio_card_template</sys_name>
+        <sys_package display_value="Mobile Studio" source="sn_sg_studio">8d04a1c3b3a51300f7d1a13816a8dcd7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Studio">8d04a1c3b3a51300f7d1a13816a8dcd7</sys_scope>
+        <sys_update_name>ua_table_licensing_config_6041d30ddbf5b300bf90b9836b9619f2</sys_update_name>
+        <sys_updated_by>FZ5695</sys_updated_by>
+        <sys_updated_on>2019-06-01 08:25:22</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Mobile Studio">8d04a1c3b3a51300f7d1a13816a8dcd7</claim_owner_scope>
+        <claim_timestamp>18bd3b8f81a0000001</claim_timestamp>
+        <metadata_update_name>ua_table_licensing_config_6041d30ddbf5b300bf90b9836b9619f2</metadata_update_name>
+        <previous_claim_app_version>6.0.8</previous_claim_app_version>
+        <previous_claim_name>Mobile Studio</previous_claim_name>
+        <previous_claim_scope>8d04a1c3b3a51300f7d1a13816a8dcd7</previous_claim_scope>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-15 16:03:16</sys_created_on>
+        <sys_id>c156b89197227914d6e6fdffe153af09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-15 16:03:16</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-15 16:03:15</sys_created_on>
+        <sys_id>f856b89197227914d6e6fdffe153af06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-15 16:03:15</sys_updated_on>
+        <vendor_app display_value="Mobile Studio">8d04a1c3b3a51300f7d1a13816a8dcd7</vendor_app>
+        <vendor_app_version>6.0.8</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>glide-vancouver-07-06-2023__patch2-hotfix1-10-04-2023_10-06-2023_1235.zip</war_version>
+    </sys_app_customization>
+</record_update>
